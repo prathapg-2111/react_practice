@@ -43,4 +43,7 @@ console.log(parent); // heading will return an object tag
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 //Render method is responsible to convert the object to h1 tag and render on the page
+//this will render the react element to the div id root as h1 and h2 tags,
+// if there is an existing element defined in the html file, then the body of root will get replaced
+// with the tag passed in this method
 root.render(parent);
