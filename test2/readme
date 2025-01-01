@@ -1,0 +1,83 @@
+Two types of dependencies that we can install.
+1. Dev dependencies - Generally required in development phase
+2. Normal dependencies - Used in production as well
+
+
+Parcel is a beast, it will do lot of things to our app.
+Our app, right now is just a skeleton, it gives structure to the app.
+
+what is the difference between caret and Tilde in package.json?
+If there is a new minor version of an app, if we have put ^caret before the version, 
+it will install the major version of the package automtically.
+If Tilde is used, it will upgrade major upgrade version of the app specified in package.json
+
+What is package-lock.json?
+package.json is the configuration for npm,
+It keeps a track of what version is installed to the system.
+If there is a caret, it will install any version, minor versions.
+
+package-lock.json, locks the version and keep the record of the exact
+version of that package.
+It also stores, integrity which is hash of the package, 
+Basically to avoid the version mismatches, package-lock.json
+what ever is there on the dev system, is the same deployed on production.
+It keeps track of the exact versions of all the dependencies.
+
+node_modules, 
+Node modules is kind of database,
+contains all the code of the parcel and putting inside node_modules.
+
+Transitive dependencies gets installed in to node_modules.
+parcel needs help of lot of other packages.
+
+Each package installs its dependency tree, with collection of packages in node modules
+
+
+Node.js package managers and build tools serve different purposes. Here's a breakdown:
+
+### **Package Managers**
+1. **npm (Node Package Manager)**:  
+   - Default package manager for Node.js.
+   - Used for managing libraries, dependencies, and scripts in a Node.js project.
+   - Commands: `npm install`, `npm run`.
+
+2. **Yarn**:  
+   - Alternative to npm, developed by Facebook.
+   - Focuses on speed, reliability, and better caching.
+   - Commands: `yarn add`, `yarn start`.
+
+3. **pnpm**:  
+   - A fast and space-efficient package manager.
+   - Uses hard links to save disk space and avoid duplication.
+
+---
+
+### **Build Tools in the Node.js Ecosystem**
+1. **Parcel**:  
+   - A zero-config bundler for web applications.
+   - Automatically handles dependencies, code splitting, and transformations.
+   - Great for quick setups and simple projects.
+
+2. **Babel**:  
+   - A JavaScript compiler, mainly used to convert ES6+ code into backward-compatible JavaScript.
+   - Requires configuration with `.babelrc` or `babel.config.js`.
+
+3. **Webpack**:  
+   - A highly configurable bundler for JavaScript applications.
+   - Supports plugins and loaders for advanced customizations.
+   - Commonly used in production-grade applications.
+
+4. **Rollup**:  
+   - Optimized for bundling libraries.
+   - Outputs smaller and more efficient bundles compared to Webpack.
+
+5. **Vite**:  
+   - A modern bundler focused on speed.
+   - Uses ES modules during development for fast HMR (Hot Module Replacement).
+
+6. **Gulp**:  
+   - A task runner for automating repetitive tasks like CSS/JS minification, file watching, etc.
+
+Each has its specific use case, and often these tools are used in combination to achieve optimal workflows.
+
+
