@@ -56,7 +56,25 @@ Node.js package managers and build tools serve different purposes. Here's a brea
 1. **Parcel**:  
    - A zero-config bundler for web applications.
    - Automatically handles dependencies, code splitting, and transformations.
-   - Great for quick setups and simple projects.
+   - Great for quick setups and simple projects. 
+   - Parcel creates dev build, local server and refreshing the page automatically (HMR)
+   - Hot module replacement - File watching algorithm - written in C++
+   - Faster development exp because it also does caching - its basically caching everything that we do.
+   - Image optimization.
+   - Minification of the production builds, it will bundle all the files for us.
+   - Compress our files, it will keep smaller version of our code and ship to production.
+   - Parcel does consistent hashing, it keeps a track of your changes.
+   - Code splitting - 
+   - Differential bundling - To support older browsers.
+   - Parcel does diagnostics for better error handling 
+   - Parcel can host the app in HTTPS/SSL
+   - Tree shaking algorithm - Remove ununsed code for you.
+   - Different dev and production bundles.
+   
+
+
+
+
 
 2. **Babel**:  
    - A JavaScript compiler, mainly used to convert ES6+ code into backward-compatible JavaScript.
