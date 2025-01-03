@@ -3,6 +3,8 @@
   "version": "1.0.0",
   "description": "This is react project by Prathap",
   "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
     "test": "jest"
   },
   "repository": {
@@ -17,7 +19,11 @@
   },
   "homepage": "https://github.com/prathapg-2111/react_practice#readme",
   "devDependencies": {
+    "@parcel/transformer-react-refresh-wrap": "^2.13.3",
     "parcel": "^2.13.3",
     "process": "^0.11.10"
-  }
+  },
+  "browsersList": [
+    "last 2 versions"
+  ]
 }

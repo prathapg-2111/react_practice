@@ -607,9 +607,6 @@ var _react = require("react");
 var _reactDefault = parcelHelpers.interopDefault(_react);
 var _client = require("react-dom/client");
 var _clientDefault = parcelHelpers.interopDefault(_client);
-var _process = require("process");
-var _processDefault = parcelHelpers.interopDefault(_process);
-window.process = (0, _processDefault.default);
 const parent = (0, _reactDefault.default).createElement("div", {
     id: "parent"
 }, [
@@ -639,7 +636,7 @@ root.render(parent);
   window.$RefreshReg$ = prevRefreshReg;
   window.$RefreshSig$ = prevRefreshSig;
 }
-},{"react":"nvNaK","react-dom/client":"dM03M","process":"d5jf4","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru"}],"nvNaK":[function(require,module,exports,__globalThis) {
+},{"react":"nvNaK","react-dom/client":"dM03M","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru"}],"nvNaK":[function(require,module,exports,__globalThis) {
 'use strict';
 module.exports = require("27af38a5e5fb81d9");
 

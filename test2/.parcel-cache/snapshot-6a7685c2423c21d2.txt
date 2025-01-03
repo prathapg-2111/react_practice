@@ -1,11 +1,12 @@
-4202
-62/home/sandbox/react_app/react_practice/test2/package-lock.json1735801747670905774 0
+4208
+62/home/sandbox/react_app/react_practice/test2/package-lock.json1735865295141865367 0
 51/home/sandbox/react_app/react_practice/test2/readme1735821626891567346 0
 67/home/sandbox/react_app/react_practice/test2/dist/index.7c0ccee6.js1735748243319827876 0
+71/home/sandbox/react_app/react_practice/test2/dist/index.de85742e.js.map1735821773657738750 0
 68/home/sandbox/react_app/react_practice/test2/dist/index.9e4c6fd2.css1735820652280246670 0
-60/home/sandbox/react_app/react_practice/test2/dist/index.html1735820652248246537 0
+60/home/sandbox/react_app/react_practice/test2/dist/index.html1735821773643738643 0
 72/home/sandbox/react_app/react_practice/test2/dist/index.9e4c6fd2.css.map1735820652282246679 0
-55/home/sandbox/react_app/react_practice/test2/.gitignore1735746982845479192 0
+55/home/sandbox/react_app/react_practice/test2/.gitignore1735822455611228885 0
 60/home/sandbox/react_app/react_practice/test2/package main.go1735301795205239483 0
 55/home/sandbox/react_app/react_practice/test2/index.html1735820637021183127 0
 75/home/sandbox/react_app/react_practice/test2/node_modules/process/README.md1735800642188570862 0
@@ -179,6 +180,7 @@
 82/home/sandbox/react_app/react_practice/test2/node_modules/htmlnano/lib/helpers.mjs1735748223286614882 0
 97/home/sandbox/react_app/react_practice/test2/node_modules/htmlnano/lib/modules/removeComments.mjs1735748223296614990 0
 92/home/sandbox/react_app/react_practice/test2/node_modules/htmlnano/lib/modules/minifyCss.cjs1735748223143613339 0
+67/home/sandbox/react_app/react_practice/test2/dist/index.d8d92186.js1735821734424436362 0
 106/home/sandbox/react_app/react_practice/test2/node_modules/htmlnano/lib/modules/sortAttributesWithLists.cjs1735748223189613835 0
 97/home/sandbox/react_app/react_practice/test2/node_modules/htmlnano/lib/modules/sortAttributes.mjs1735748223308615120 0
 91/home/sandbox/react_app/react_practice/test2/node_modules/htmlnano/lib/modules/minifyJs.cjs1735748223149613403 0
@@ -217,6 +219,7 @@
 85/home/sandbox/react_app/react_practice/test2/node_modules/dom-serializer/lib/index.js1735748223071612561 0
 85/home/sandbox/react_app/react_practice/test2/node_modules/dom-serializer/package.json1735748223088612745 0
 79/home/sandbox/react_app/react_practice/test2/node_modules/utility-types/LICENSE1735748222966611428 0
+67/home/sandbox/react_app/react_practice/test2/dist/index.de85742e.js1735821773644738651 0
 100/home/sandbox/react_app/react_practice/test2/node_modules/utility-types/dist/aliases-and-guards.d.ts1735748223131613209 0
 102/home/sandbox/react_app/react_practice/test2/node_modules/utility-types/dist/functional-helpers.js.map1735748223068612529 0
 97/home/sandbox/react_app/react_practice/test2/node_modules/utility-types/dist/utility-types.js.map1735748223086612723 0
@@ -344,13 +347,14 @@
 97/home/sandbox/react_app/react_practice/test2/node_modules/htmlparser2/lib/WritableStream.d.ts.map1735748223189613835 0
 69/home/sandbox/react_app/react_practice/test2/node_modules/ansi-styles1735748223009611892 1
 88/home/sandbox/react_app/react_practice/test2/node_modules/htmlparser2/lib/index.d.ts.map1735748223140613306 0
-71/home/sandbox/react_app/react_practice/test2/dist/index.5baa4167.js.map1735820652363247015 0
+71/home/sandbox/react_app/react_practice/test2/dist/index.5baa4167.js.map1735836151563670572 0
 82/home/sandbox/react_app/react_practice/test2/node_modules/supports-color/readme.md1735748223023612043 0
 91/home/sandbox/react_app/react_practice/test2/node_modules/htmlparser2/lib/WritableStream.js1735748223127613166 0
 73/home/sandbox/react_app/react_practice/test2/node_modules/htmlparser2/lib1735748223216614127 1
 82/home/sandbox/react_app/react_practice/test2/node_modules/htmlparser2/package.json1735748223135613253 0
 69/home/sandbox/react_app/react_practice/test2/node_modules/htmlparser21735748223193613879 1
 70/home/sandbox/react_app/react_practice/test2/node_modules/lmdb/LICENSE1735748223164613565 0
+72/home/sandbox/react_app/react_practice/test2/dist/index.81c82b7a.css.map1735821734438436472 0
 66/home/sandbox/react_app/react_practice/test2/node_modules/lmdb/bin1735748223350615573 1
 75/home/sandbox/react_app/react_practice/test2/node_modules/lmdb/util/when.js1735748223358615659 0
 67/home/sandbox/react_app/react_practice/test2/node_modules/lmdb/util1735748223358615659 1
@@ -801,7 +805,7 @@
 76/home/sandbox/react_app/react_practice/test2/node_modules/@swc/core/index.js1735748223099612864 0
 96/home/sandbox/react_app/react_practice/test2/node_modules/type-fest/source/conditional-keys.d.ts1735748223091612777 0
 76/home/sandbox/react_app/react_practice/test2/node_modules/@swc/core/spack.js1735748223132613220 0
-62/home/sandbox/react_app/react_practice/test2/node_modules/@swc1735801747598905608 1
+62/home/sandbox/react_app/react_practice/test2/node_modules/@swc1735865295061863803 1
 110/home/sandbox/react_app/react_practice/test2/node_modules/htmlnano/lib/modules/collapseAttributeWhitespace.mjs1735748223281614828 0
 86/home/sandbox/react_app/react_practice/test2/node_modules/weak-lru-cache/tests/test.js1735748223052612357 0
 82/home/sandbox/react_app/react_practice/test2/node_modules/weak-lru-cache/README.md1735748223075612605 0
@@ -971,7 +975,7 @@
 96/home/sandbox/react_app/react_practice/test2/node_modules/cosmiconfig/dist/cacheWrapper.d.ts.map1735748223122613112 0
 85/home/sandbox/react_app/react_practice/test2/node_modules/cosmiconfig/dist/loaders.js1735748223093612799 0
 88/home/sandbox/react_app/react_practice/test2/node_modules/cosmiconfig/dist/defaults.d.ts1735748223210614062 0
-51/home/sandbox/react_app/react_practice/test2/app.js1735820651453243238 0
+51/home/sandbox/react_app/react_practice/test2/app.js1735865260040180553 0
 87/home/sandbox/react_app/react_practice/test2/node_modules/cosmiconfig/dist/types.js.map1735748223198613933 0
 92/home/sandbox/react_app/react_practice/test2/node_modules/cosmiconfig/dist/Explorer.d.ts.map1735748223144613349 0
 101/home/sandbox/react_app/react_practice/test2/node_modules/cosmiconfig/dist/canUseDynamicImport.js.map1735748223135613253 0
@@ -1207,10 +1211,10 @@
 81/home/sandbox/react_app/react_practice/test2/node_modules/@parcel/transformer-svg1735748223089612756 1
 104/home/sandbox/react_app/react_practice/test2/node_modules/@parcel/transformer-js/lib/esmodule-helpers.js1735748223000611795 0
 84/home/sandbox/react_app/react_practice/test2/node_modules/@parcel/transformer-js/lib1735748223028612097 1
-65/home/sandbox/react_app/react_practice/test2/node_modules/@parcel1735801747599905611 1
+65/home/sandbox/react_app/react_practice/test2/node_modules/@parcel1735865295061863803 1
 84/home/sandbox/react_app/react_practice/test2/node_modules/react-refresh/package.json1735748223096612831 0
 80/home/sandbox/react_app/react_practice/test2/node_modules/domhandler/lib/node.js1735748223082612680 0
-67/home/sandbox/react_app/react_practice/test2/dist/index.5baa4167.js1735820652355246982 0
+67/home/sandbox/react_app/react_practice/test2/dist/index.5baa4167.js1735836151554667442 0
 97/home/sandbox/react_app/react_practice/test2/node_modules/cosmiconfig/dist/canUseDynamicImport.js1735748223008611881 0
 72/home/sandbox/react_app/react_practice/test2/node_modules/domhandler/lib1735748223146613371 1
 78/home/sandbox/react_app/react_practice/test2/node_modules/domhandler/readme.md1735748223132613220 0
@@ -1447,7 +1451,7 @@
 87/home/sandbox/react_app/react_practice/test2/node_modules/@parcel/markdown-ansi/LICENSE1735748222976611536 0
 82/home/sandbox/react_app/react_practice/test2/node_modules/@swc/helpers/esm/_get.js1735748223295614979 0
 97/home/sandbox/react_app/react_practice/test2/node_modules/caniuse-lite/data/features/shadowdom.js1735748223494617127 0
-76/home/sandbox/react_app/react_practice/test2/node_modules/.package-lock.json1735801747711905868 0
+76/home/sandbox/react_app/react_practice/test2/node_modules/.package-lock.json1735865295180866130 0
 103/home/sandbox/react_app/react_practice/test2/node_modules/caniuse-lite/data/features/arrow-functions.js1735748223212614083 0
 95/home/sandbox/react_app/react_practice/test2/node_modules/type-fest/source/set-return-type.d.ts1735748223190613846 0
 100/home/sandbox/react_app/react_practice/test2/node_modules/caniuse-lite/data/features/script-async.js1735748223492617106 0
@@ -1865,12 +1869,14 @@
 87/home/sandbox/react_app/react_practice/test2/node_modules/type-fest/source/mutable.d.ts1735748223153613447 0
 104/home/sandbox/react_app/react_practice/test2/node_modules/@swc/helpers/cjs/_class_private_method_get.cjs1735748223165613576 0
 108/home/sandbox/react_app/react_practice/test2/node_modules/caniuse-lite/data/features/subresource-bundling.js1735748223498617171 0
+68/home/sandbox/react_app/react_practice/test2/dist/index.81c82b7a.css1735821734423436355 0
 74/home/sandbox/react_app/react_practice/test2/node_modules/cosmiconfig/dist1735748223225614224 1
 89/home/sandbox/react_app/react_practice/test2/node_modules/caniuse-lite/data/regions/AU.js1735748223227614245 0
 114/home/sandbox/react_app/react_practice/test2/node_modules/@babel/helper-validator-identifier/lib/identifier.js.map1735748223042612249 0
 89/home/sandbox/react_app/react_practice/test2/node_modules/caniuse-lite/data/regions/AI.js1735748223154613457 0
 103/home/sandbox/react_app/react_practice/test2/node_modules/caniuse-lite/data/features/x-doc-messaging.js1735748223528617495 0
 79/home/sandbox/react_app/react_practice/test2/node_modules/@parcel/codeframe/src1735748223256614559 1
+71/home/sandbox/react_app/react_practice/test2/dist/index.d8d92186.js.map1735821734439436480 0
 103/home/sandbox/react_app/react_practice/test2/node_modules/caniuse-lite/data/features/getrandomvalues.js1735748223413616253 0
 103/home/sandbox/react_app/react_practice/test2/node_modules/@parcel/core/src/public/MutableBundleGraph.js1735748223315615195 0
 72/home/sandbox/react_app/react_practice/test2/node_modules/supports-color1735748223005611849 1
@@ -1972,7 +1978,7 @@
 89/home/sandbox/react_app/react_practice/test2/node_modules/caniuse-lite/data/regions/MQ.js1735748223462616782 0
 86/home/sandbox/react_app/react_practice/test2/node_modules/@swc/helpers/cjs/_update.cjs1735748223254614537 0
 96/home/sandbox/react_app/react_practice/test2/node_modules/caniuse-lite/data/features/promises.js1735748223486617041 0
-49/home/sandbox/react_app/react_practice/test2/dist1735820652366247027 1
+49/home/sandbox/react_app/react_practice/test2/dist1735836151564670919 1
 81/home/sandbox/react_app/react_practice/test2/node_modules/@swc/helpers/_/_type_of1735748223442616566 1
 112/home/sandbox/react_app/react_practice/test2/node_modules/@swc/helpers/_/_class_static_private_field_destructure1735748223388615983 1
 73/home/sandbox/react_app/react_practice/test2/node_modules/globals/license1735748222972611492 0
@@ -2300,7 +2306,7 @@
 74/home/sandbox/react_app/react_practice/test2/node_modules/timsort/index.js1735748223004611838 0
 105/home/sandbox/react_app/react_practice/test2/node_modules/caniuse-lite/data/features/input-file-accept.js1735748223428616415 0
 89/home/sandbox/react_app/react_practice/test2/node_modules/caniuse-lite/data/regions/RS.js1735748223491617095 0
-57/home/sandbox/react_app/react_practice/test2/node_modules1735801747598905608 1
+57/home/sandbox/react_app/react_practice/test2/node_modules1735865295060863783 1
 104/home/sandbox/react_app/react_practice/test2/node_modules/caniuse-lite/data/features/css-first-letter.js1735748223331615368 0
 111/home/sandbox/react_app/react_practice/test2/node_modules/@msgpackr-extract/msgpackr-extract-linux-x64/index.js1735748222963611395 0
 93/home/sandbox/react_app/react_practice/test2/node_modules/caniuse-lite/data/regions/alt-af.js1735748223159613511 0
@@ -2369,7 +2375,7 @@
 89/home/sandbox/react_app/react_practice/test2/node_modules/caniuse-lite/data/regions/SK.js1735748223495617138 0
 116/home/sandbox/react_app/react_practice/test2/node_modules/@parcel/runtime-service-worker/lib/ServiceWorkerRuntime.js1735748223001611806 0
 103/home/sandbox/react_app/react_practice/test2/node_modules/entities/lib/generated/decode-data-xml.js.map1735748223206614019 0
-75/home/sandbox/react_app/react_practice/test2/node_modules/@msgpackr-extract1735801747599905611 1
+75/home/sandbox/react_app/react_practice/test2/node_modules/@msgpackr-extract1735865295061863803 1
 104/home/sandbox/react_app/react_practice/test2/node_modules/@swc/helpers/esm/_object_without_properties.js1735748223314615185 0
 89/home/sandbox/react_app/react_practice/test2/node_modules/update-browserslist-db/utils.js1735748223033612151 0
 89/home/sandbox/react_app/react_practice/test2/node_modules/caniuse-lite/data/regions/NP.js1735748223475616923 0
@@ -2389,7 +2395,7 @@
 83/home/sandbox/react_app/react_practice/test2/node_modules/@parcel/watcher/src/macos1735748223192613868 1
 91/home/sandbox/react_app/react_practice/test2/node_modules/domelementtype/lib/index.d.ts.map1735748223077612626 0
 124/home/sandbox/react_app/react_practice/test2/node_modules/@msgpackr-extract/msgpackr-extract-linux-x64/node.abi115.musl.node1735748223060612443 0
-57/home/sandbox/react_app/react_practice/test2/package.json1735800642207570947 0
+57/home/sandbox/react_app/react_practice/test2/package.json1735865295063863842 0
 95/home/sandbox/react_app/react_practice/test2/node_modules/@parcel/runtime-react-refresh/LICENSE1735748222976611536 0
 93/home/sandbox/react_app/react_practice/test2/node_modules/caniuse-lite/data/regions/alt-sa.js1735748223182613760 0
 89/home/sandbox/react_app/react_practice/test2/node_modules/dom-serializer/lib/esm/index.js1735748223055612389 0
@@ -3667,7 +3673,7 @@
 98/home/sandbox/react_app/react_practice/test2/node_modules/chrome-trace-event/dist/trace-event.d.ts1735748223037612195 0
 78/home/sandbox/react_app/react_practice/test2/node_modules/@parcel/reporter-cli1735748223166613587 1
 118/home/sandbox/react_app/react_practice/test2/node_modules/htmlnano/docs/versioned_docs/version-2.0.0/060-contribute.md1735748223277614785 0
-63/home/sandbox/react_app/react_practice/test2/node_modules/@lmdb1735801747599905611 1
+63/home/sandbox/react_app/react_practice/test2/node_modules/@lmdb1735865295061863803 1
 97/home/sandbox/react_app/react_practice/test2/node_modules/@swc/helpers/cjs/_apply_decs_2203_r.cjs1735748223027612087 0
 91/home/sandbox/react_app/react_practice/test2/node_modules/@parcel/reporter-cli/src/emoji.js1735748223157613490 0
 92/home/sandbox/react_app/react_practice/test2/node_modules/@parcel/reporter-cli/src/render.js1735748223163613555 0

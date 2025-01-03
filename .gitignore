@@ -1,0 +1,8 @@
+/node_modules
+/test1/node_modules
+/test2/node_modules
+/test3/node_modules
+/test2/dist
+/test3/dist
+/test2/.parcel-cache
+/test3/.parcel-cache

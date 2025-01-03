@@ -1,0 +1,35 @@
+{
+  "name": "react_practice",
+  "version": "1.0.0",
+  "description": "This is react project by Prathap",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prathapg-2111/react_practice.git"
+  },
+  "keywords": [],
+  "author": "Prathap",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prathapg-2111/react_practice/issues"
+  },
+  "homepage": "https://github.com/prathapg-2111/react_practice#readme",
+  "devDependencies": {
+    "@babel/core": "^7.26.0",
+    "@babel/preset-react": "^7.26.3",
+    "@parcel/transformer-react-refresh-wrap": "^2.13.3",
+    "parcel": "^2.13.3",
+    "process": "^0.11.10"
+  },
+  "browsersList": [
+    "last 2 versions"
+  ],
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  }
+}

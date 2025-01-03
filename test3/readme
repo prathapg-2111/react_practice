@@ -1,0 +1,47 @@
+JSX React - What is happening behind scenes
+Basic HTML, javascript and css files.
+skeleton or markup inside the html, logic on the page written in javascript
+
+React as well tries to merge these things up ,
+so that it does everything in one file jsx, 
+JSX is convention where we merge this html and js together.
+JSX is not a HTML inside javascript, it is html or xml like syntax.
+
+
+Any piece of javascript understands es6 - JS engine understands
+all the versions of the es6. 
+Browser will not understand html code.
+
+Parcel is working on converting the JSX in to ec6.
+Before it goes to JS engine, 
+JSX code is transpiled to js syntax for js engine that react can understand.
+Babel transpiles the jsx code to react.CreateElement.
+
+
+JSX - parcel - Babel
+
+
+
+Babel is a javascript compiler.
+
+React components:
+Everything is a component in react, 
+Header is a component, Title, searchbar, footer, list of cards
+Everything in react is a component.
+
+There are 2 types of components:
+1. Class based components - OLD - javascript classes
+2. Functional components - new - javascript functions.
+
+React Functional component is just a normal javascript functions
+which returns a piece of JSX is a Functional component
+The name of the function should start with capital letter.
+
+What is component composition
+composing 2 components in to single component.
+
+
+
+
+
+
